@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16728#A-Catechism-of-Familiar-Things---13-With-a-Short-Explanation-of-Some-of-the-Principal-Natural_
 gutenberg_bookshelf:
 - Education
 - Children's Instructional Books
